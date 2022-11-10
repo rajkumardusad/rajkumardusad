@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rajkumar Dusad
-- 👀 I’m interested in web development
+- 💻 Software Developer
+- 👀 I’m interested in web development and computer science
 - 🌱 I’m currently learning JavaScript
 - 💞️ I like JavaScript
 
