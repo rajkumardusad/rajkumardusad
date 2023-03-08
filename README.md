@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 <!--
 
@@ -17,9 +17,9 @@
 
 🌈 I’m interested in web development and computer science
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning Go and JavaScript
 
-💞️ I like JavaScript
+💞️ I like Go and JavaScript
 
 <!---
 rajkumardusad/rajkumardusad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
