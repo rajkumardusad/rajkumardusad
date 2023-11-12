@@ -11,13 +11,13 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ Hey there, I’m Rajkumar Dusad
+🙋‍♀️ I’m Rajkumar Dusad
 
 💻 I'm a software developer
 
 🌈 I’m interested in web development and computer science
 
-🌱 I’m currently learning Go and JavaScript
+🌱 I’m currently learning JavaScript
 
 <!---
 rajkumardusad/rajkumardusad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
